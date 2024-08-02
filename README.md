@@ -8,11 +8,10 @@
 ## SNSLinks
 
 <p align="left">
-<a href="https://twitter.com/shirafuka_yayoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shirafuka_yayoi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shirafuka_yayoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shirafuka_yayoi" height="30" width="40" /></a>
-<a href="https://www.twitch.tv/shirafukayayoi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" alt="shirafuka_yayoi" height="30" width="40" /></a>
-<a href="https://kakuyomu.jp/users/yayoi_san" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/986111364090413056/R59w2fO0_400x400.jpg" alt="shirafuka_yayoi" height="30" width="30" /></a>
-<a href="https://bookmeter.com/users/1291485" target="blank"><img align="center" src="https://asset.brandfetch.io/idf85S2ko_/id6ZKbdGT5.jpeg" alt="shirafuka_yayoi" height="30" width="30" /></a>
+<a href="https://twitter.com/shirafuka_yayoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shirafuka_yayoi" height="40" width="40" /></a>
+<a href="https://www.youtube.com/c/shirafuka_yayoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shirafuka_yayoi" height="40" width="40" /></a>
+<a href="https://www.twitch.tv/shirafukayayoi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" alt="shirafuka_yayoi" height="40" width="40" /></a>
+<a href="https://kakuyomu.jp/users/yayoi_san" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/986111364090413056/R59w2fO0_400x400.jpg" alt="shirafuka_yayoi" height="40" width="40" /></a>
 </p>
 
 ## Favorite or Playing Games
@@ -24,5 +23,7 @@
 <a href="https://konosubafd.jp" target="blank"><img align="center" src="https://yt3.googleusercontent.com/rWMQPWqSox48wCT2QlLlq9VlJ9npS3cHDxqJRsvwTYUJIFrMiRFGcF7hmlY6Rk2jPKlpMi_hWJc=s900-c-k-c0x00ffffff-no-rj" alt="konofan" height="40" width="40" /></a>
 <a href="https://genshin.hoyoverse.com" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1774802682068512768/zRFQ4YHV_400x400.jpg" alt="genshin" height="40" width="40" /></a>
 <a href="hhttps://hsr.hoyoverse.com" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1788028684668141569/iq-OuutM_400x400.jpg" alt="houkaistarrail" height="40" width="40" /></a>
-<a href="https://playvalorant.com" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1799213902879977472/bXZKpNJl_400x400.png" alt="valorant" height="40" width="40" /></a>
+<a href="https://playvalorant.com" target="blank"><img align="center" src="https://yt3.googleusercontent.com/7NSzHZlaIM0q8yteFQJuI3SEOr4Ntb28uXlGdfj2HAdiWqBCHUBbQpizheJch2hCr9RcveSD6w=s160-c-k-c0x00ffffff-no-rj" alt="valorant" height="40" width="40" /></a>
+<a href="https://hello.vrchat.com" target="blank"><img align="center" src="https://cdn2.steamgriddb.com/icon/4b0a618db23379c7c77f818cf569050d.ico" alt="VRchat" height="40" width="40" /></a>
+<a href="https://zenless.hoyoverse.com/ja-jp/" target="blank"><img align="center" src="https://upload-os-bbs.hoyolab.com/upload/2022/05/08/129863502/e4812653f6be1c81c5f9b04e7ed75f56_7108343610509244475.jpeg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70" alt="zzz" height="40" width="40" /></a>
 </p>
