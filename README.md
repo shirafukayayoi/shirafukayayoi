@@ -41,3 +41,6 @@
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shirafukayayoi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shirafukayayoi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shirafukayayoi&show_owner=true&theme=tokyonight&repo=Shirafuka_Practice)](https://github.com/anuraghazra/github-readme-stats)
