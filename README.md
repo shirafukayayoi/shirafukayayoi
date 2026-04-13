@@ -1,19 +1,8 @@
-# Hi! I'm Shirafukayayoi!.
+# Hi! I'm Shirafuka!!
 
 ## 連絡手段(Contact means)
 
-- 📩DiscordのDM、またはTwitterのDMへ
-- 📩Go to Discord DM or Twitter DM
-- Discord: shirafukayayoi
-
-## SNSLinks
-
-<p align="left">
-<a href="https://twitter.com/shirafukayayoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shirafuka_yayoi" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/shirafuka_yayoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shirafuka_yayoi" height="40" width="40" /></a>
-<a href="https://www.twitch.tv/shirafukayayoi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" alt="shirafuka_yayoi" height="40" width="40" /></a>
-<a href="https://kakuyomu.jp/users/yayoi_san" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/DNjgVThRqN_cSsntJZqQEMmVMjnfF1bk1Iyy0sDiOsaQWZSIGxeF09PsXdcwOE5E" alt="shirafuka_yayoi" height="40" width="40" /></a>
-</p>
+- kanemaru0614yuki@gmail.com
 
 ## Languages and Tools
 
