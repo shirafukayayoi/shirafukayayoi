@@ -1,5 +1,8 @@
 # Hi! I'm Shirafuka!!
 
+中学生の時から `shirafuka` としていろいろなものを作ってきました。
+リアルでは金丸として活動しています。
+
 ## 連絡手段(Contact means)
 
 - kanemaru0614yuki@gmail.com
